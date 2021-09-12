@@ -1,3 +1,4 @@
 main : "kr.myoung2.plt.paper.PaperPluginTweaks"
-name : "Plugin Tweaks"
+name : "Plugin-Tweaks"
 version : $version
+api-version: 1.17
